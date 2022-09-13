@@ -1,8 +1,8 @@
-# Project-05 HTML and CSS
+# Project-06 HTML and CSS
 
-![Badge]()
+![Badge](https://img.shields.io/badge/Project--6-Monstera--Care-green)
 
-# [Link of live project]()
+# [Link of live project](https://monstera-care.netlify.app/)
 
 ![LCO](./img/landing-page.png)
 
@@ -14,4 +14,4 @@
 
 # How many time to take develop this web page.
 
-- Almost 4 hours is spend to design this web page.
+- Almost 3 hours is spend to design this web page.
